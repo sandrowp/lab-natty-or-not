@@ -15,7 +15,7 @@ Eu não possuo nenhum talento artístico musical nem para uma rima simples, port
 - Ferramenta **Bloco de Notas** para edição e ajustes na letra.
 
 ## 🧐 Processo de Criação
-1. Copiei interamente a descrição do bootcamp na página da Dio.me;
+1. Copiei inteiramente a descrição do bootcamp na página da Dio.me;
 2. Colei no ChatGPT e utilizei o seguinte prompt: **Criar uma música para divulgar o bootcamp da DIO.me baseado nesta descrição.**
 3. Entrei no Suno e segui os seguintes passos:
    1. Selecione a opção **Create**
