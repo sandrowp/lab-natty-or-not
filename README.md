@@ -1,10 +1,10 @@
 # Música - A SUA CARREIRA TÉNICA COMEÇA AQUI!
 
 ## 📒 Descrição
-Esta música contém 3:33 minitos e foi totalmente criada com IAs Gererativas, desde a concepção do título e da letra. O seu objetivo é divulgar o nosso bootcamp "Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3". 
+Esta música contém 3:33 minutos e foi totalmente criada com IAs Gererativas, desde a concepção do título e da letra. O seu objetivo é divulgar o nosso bootcamp "Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3". 
 
 **OBSERVAÇÃO**  
-Apesar do resultado necessitar de alguns ajustes, acredito que ficou satisfatório para o objetivo do desafio. Posso destacar algumas pronúncias como a palavra "mentoria" que foi pronunciada com a sílaba tônica aguda na letra "o" e fácimente seria corrigida com a grafia "mentôria".
+Apesar do resultado necessitar de alguns ajustes, acredito que ficou satisfatório para o objetivo do desafio. Posso destacar algumas pronúncias como a palavra "mentoria" que foi pronunciada com a sílaba tônica aguda na letra "o" e facilmente seria corrigida com a grafia "mentôria".
 
 **IMPORTANTE**  
 Eu não possuo nenhum talento artístico musical nem para uma rima simples, portanto, se a música ficou audível pelo menos o mérito todo é da IA.
