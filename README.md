@@ -85,7 +85,7 @@ Sua carreira em tecnologia começa aqui!
 
 
 ### Link para a música
-- [Podcast](/Formando_Heróis_Veterinários.mp3)
+- [Música](/Formando_Herois_Veterinarios.mp3)
 
 ## 💭 Reflexão
 Em 2007, me graduei em Sistemas de Informação pela Academia de Ensino Superior de Sorocaba, e meu TCC foi sobre Inteligência Artificial. Lembro-me de ter ficado fascinado com as minhas aulas de IA; não conseguia acreditar que um computador baseado em bits e bytes pudesse aprender algo, mesmo que não fosse consciente. Aquilo aguçou meus instintos e, naquele instante, soube que essa tecnologia iria transformar o mundo. Assim, optei pelo tema do meu TCC: "UTILIZAÇÃO RACIONAL DE ACESSO ÀS PÁGINAS WEB COM PROXY INTELIGENTE".
